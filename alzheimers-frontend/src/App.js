@@ -51,7 +51,7 @@ function App() {
         setResult(null);
         setError('');
         try {
-            const response = await axios.post('https://hybrid-ml-model-fo-alzheimers.onrender.com', formData);
+            const response = await axios.post('https://hybrid-ml-model-fo-alzheimers.onrender.com/predict', formData);
             setResult(response.data);
         } catch (err) {
             setError('Prediction failed. Please ensure the backend server is running and accessible.');
