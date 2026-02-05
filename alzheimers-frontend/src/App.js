@@ -1287,7 +1287,7 @@ const PredictorPage = ({ activeSection }) => {
                         <svg width="36" height="36" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="white" strokeWidth="1.5">
                             <path d="M9.96313 2.32715C10.7936 2.06834 11.6919 2 12.6667 2C16.9427 2 20.5 5.5134 20.5 9.75C20.5 11.6441 19.7423 13.3615 18.5 14.65M3.5 9.75C3.5 5.5134 7.05731 2 11.3333 2C11.7133 2 12.0837 2.02904 12.4418 2.08447M12.5 14.25C12.5 14.25 12.5 16.5 12.5 18C12.5 19.6569 11.1569 21 9.5 21C7.84315 21 6.5 19.6569 6.5 18C6.5 16.5 6.5 14.25 6.5 14.25M17 17.5C17.7974 18.0107 18.5 19.3333 18.5 20C18.5 21.1046 17.6046 22 16.5 22C15.3954 22 14.5 21.1046 14.5 20C14.5 19.3333 15.2026 18.0107 16 17.5M12.5 14.25C13.25 12.5 14.5 10 17 8.5M6.5 14.25C5.75 12.5 4.5 10 2 8.5" strokeLinecap="round" strokeLinejoin="round"/>
                         </svg>
-                        <span className="typing-text typing-predictor">Alzheimer's Diagnosis Predictor</span>
+                        <span className="typing-text typing-predictor">Alzheimer's Disease Predictor</span>
                     </h1>
                     <p>An advanced tool for early detection using a hybrid AI model.</p>
                 </header>
